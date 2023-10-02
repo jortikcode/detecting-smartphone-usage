@@ -1,2 +1,1 @@
-# smartphone-use-recognition
-My Bachelor's Thesis in Computer Science, University of Bologna
+# Detecting smartphone usage while driving using object detection: An advanced approach
